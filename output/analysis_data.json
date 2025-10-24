@@ -1,0 +1,809 @@
+{
+  "username": "Soham-droid-pixel",
+  "generated_at": "October 24, 2025 at 15:04",
+  "stats": [
+    {
+      "icon": "📝",
+      "value": "329",
+      "title": "Total Commits",
+      "color": "#6366f1"
+    },
+    {
+      "icon": "📦",
+      "value": "45",
+      "title": "Repositories",
+      "color": "#ec4899"
+    },
+    {
+      "icon": "📅",
+      "value": "502",
+      "title": "Days Active",
+      "color": "#8b5cf6"
+    },
+    {
+      "icon": "⚡",
+      "value": "27%",
+      "title": "Consistency",
+      "color": "#10b981"
+    },
+    {
+      "icon": "🔥",
+      "value": "10 days",
+      "title": "Longest Streak",
+      "color": "#f59e0b"
+    },
+    {
+      "icon": "💻",
+      "value": "Python",
+      "title": "Primary Language",
+      "color": "#06b6d4"
+    }
+  ],
+  "insights": [
+    {
+      "icon": "🌟",
+      "title": "Early Bird 🐦",
+      "description": "You harness the morning's energy, coding with the sunrise."
+    },
+    {
+      "icon": "📊",
+      "title": "Coding Consistency",
+      "description": "Sporadic Coder - Inconsistent commit patterns. 🎲"
+    },
+    {
+      "icon": "🌐",
+      "title": "Language Diversity",
+      "description": "Polyglot Master - You're fluent in many languages! 🌐"
+    },
+    {
+      "icon": "🚀",
+      "title": "Code Velocity",
+      "description": "Your velocity is Decelerating 📉. Recent average: 2.0 commits/day"
+    }
+  ],
+  "charts": {
+    "circadian": [
+      {
+        "hour": "0:00",
+        "commits": 0
+      },
+      {
+        "hour": "1:00",
+        "commits": 0
+      },
+      {
+        "hour": "2:00",
+        "commits": 0
+      },
+      {
+        "hour": "3:00",
+        "commits": 10
+      },
+      {
+        "hour": "4:00",
+        "commits": 23
+      },
+      {
+        "hour": "5:00",
+        "commits": 28
+      },
+      {
+        "hour": "6:00",
+        "commits": 30
+      },
+      {
+        "hour": "7:00",
+        "commits": 18
+      },
+      {
+        "hour": "8:00",
+        "commits": 5
+      },
+      {
+        "hour": "9:00",
+        "commits": 6
+      },
+      {
+        "hour": "10:00",
+        "commits": 32
+      },
+      {
+        "hour": "11:00",
+        "commits": 27
+      },
+      {
+        "hour": "12:00",
+        "commits": 39
+      },
+      {
+        "hour": "13:00",
+        "commits": 28
+      },
+      {
+        "hour": "14:00",
+        "commits": 17
+      },
+      {
+        "hour": "15:00",
+        "commits": 24
+      },
+      {
+        "hour": "16:00",
+        "commits": 21
+      },
+      {
+        "hour": "17:00",
+        "commits": 15
+      },
+      {
+        "hour": "18:00",
+        "commits": 6
+      },
+      {
+        "hour": "19:00",
+        "commits": 0
+      },
+      {
+        "hour": "20:00",
+        "commits": 0
+      },
+      {
+        "hour": "21:00",
+        "commits": 0
+      },
+      {
+        "hour": "22:00",
+        "commits": 0
+      },
+      {
+        "hour": "23:00",
+        "commits": 0
+      }
+    ],
+    "day_of_week": [
+      {
+        "day": "Monday",
+        "commits": 52
+      },
+      {
+        "day": "Tuesday",
+        "commits": 27
+      },
+      {
+        "day": "Wednesday",
+        "commits": 30
+      },
+      {
+        "day": "Thursday",
+        "commits": 75
+      },
+      {
+        "day": "Friday",
+        "commits": 48
+      },
+      {
+        "day": "Saturday",
+        "commits": 49
+      },
+      {
+        "day": "Sunday",
+        "commits": 48
+      }
+    ],
+    "monthly_activity": {
+      "months": [
+        {
+          "month": "2024-06",
+          "commits": 7
+        },
+        {
+          "month": "2024-11",
+          "commits": 3
+        },
+        {
+          "month": "2024-12",
+          "commits": 21
+        },
+        {
+          "month": "2025-01",
+          "commits": 24
+        },
+        {
+          "month": "2025-02",
+          "commits": 12
+        },
+        {
+          "month": "2025-03",
+          "commits": 1
+        },
+        {
+          "month": "2025-04",
+          "commits": 6
+        },
+        {
+          "month": "2025-05",
+          "commits": 81
+        },
+        {
+          "month": "2025-06",
+          "commits": 80
+        },
+        {
+          "month": "2025-07",
+          "commits": 30
+        },
+        {
+          "month": "2025-08",
+          "commits": 29
+        },
+        {
+          "month": "2025-09",
+          "commits": 15
+        },
+        {
+          "month": "2025-10",
+          "commits": 20
+        }
+      ],
+      "average": 25.307692307692307
+    },
+    "language_distribution": [
+      {
+        "name": "Python",
+        "value": 231
+      },
+      {
+        "name": "React/JSX",
+        "value": 171
+      },
+      {
+        "name": "Other",
+        "value": 150
+      },
+      {
+        "name": "JavaScript",
+        "value": 128
+      },
+      {
+        "name": "Markdown",
+        "value": 124
+      },
+      {
+        "name": "React/TSX",
+        "value": 89
+      },
+      {
+        "name": "C++",
+        "value": 76
+      },
+      {
+        "name": "Config/JSON",
+        "value": 74
+      },
+      {
+        "name": "HTML",
+        "value": 49
+      },
+      {
+        "name": "Jupyter",
+        "value": 39
+      }
+    ],
+    "language_evolution": {
+      "months": [
+        {
+          "month": "2024-06",
+          "C": 0,
+          "C++": 0,
+          "C/C++ Header": 0,
+          "CSS": 1,
+          "Config/JSON": 0,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 0,
+          "Git": 0,
+          "HTML": 17,
+          "Java": 0,
+          "JavaScript": 0,
+          "Jupyter": 0,
+          "Kotlin": 0,
+          "Markdown": 3,
+          "Other": 2,
+          "PowerShell": 0,
+          "Python": 0,
+          "React/JSX": 0,
+          "React/TSX": 0,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 0,
+          "TypeScript": 0
+        },
+        {
+          "month": "2024-11",
+          "C": 0,
+          "C++": 0,
+          "C/C++ Header": 0,
+          "CSS": 2,
+          "Config/JSON": 2,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 0,
+          "Git": 0,
+          "HTML": 3,
+          "Java": 2,
+          "JavaScript": 1,
+          "Jupyter": 0,
+          "Kotlin": 0,
+          "Markdown": 3,
+          "Other": 2,
+          "PowerShell": 0,
+          "Python": 0,
+          "React/JSX": 0,
+          "React/TSX": 0,
+          "SQL": 1,
+          "Swift": 0,
+          "Text": 0,
+          "TypeScript": 0
+        },
+        {
+          "month": "2024-12",
+          "C": 0,
+          "C++": 0,
+          "C/C++ Header": 0,
+          "CSS": 1,
+          "Config/JSON": 2,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 0,
+          "Git": 0,
+          "HTML": 1,
+          "Java": 0,
+          "JavaScript": 0,
+          "Jupyter": 14,
+          "Kotlin": 0,
+          "Markdown": 11,
+          "Other": 19,
+          "PowerShell": 0,
+          "Python": 3,
+          "React/JSX": 0,
+          "React/TSX": 0,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 1,
+          "TypeScript": 0
+        },
+        {
+          "month": "2025-01",
+          "C": 0,
+          "C++": 0,
+          "C/C++ Header": 0,
+          "CSS": 0,
+          "Config/JSON": 0,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 0,
+          "Git": 0,
+          "HTML": 0,
+          "Java": 0,
+          "JavaScript": 0,
+          "Jupyter": 4,
+          "Kotlin": 0,
+          "Markdown": 4,
+          "Other": 13,
+          "PowerShell": 0,
+          "Python": 18,
+          "React/JSX": 0,
+          "React/TSX": 0,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 2,
+          "TypeScript": 0
+        },
+        {
+          "month": "2025-02",
+          "C": 0,
+          "C++": 0,
+          "C/C++ Header": 0,
+          "CSS": 2,
+          "Config/JSON": 0,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 0,
+          "Git": 0,
+          "HTML": 7,
+          "Java": 0,
+          "JavaScript": 1,
+          "Jupyter": 0,
+          "Kotlin": 0,
+          "Markdown": 5,
+          "Other": 3,
+          "PowerShell": 0,
+          "Python": 2,
+          "React/JSX": 0,
+          "React/TSX": 0,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 0,
+          "TypeScript": 0
+        },
+        {
+          "month": "2025-03",
+          "C": 0,
+          "C++": 0,
+          "C/C++ Header": 0,
+          "CSS": 0,
+          "Config/JSON": 0,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 0,
+          "Git": 0,
+          "HTML": 2,
+          "Java": 0,
+          "JavaScript": 0,
+          "Jupyter": 0,
+          "Kotlin": 0,
+          "Markdown": 0,
+          "Other": 0,
+          "PowerShell": 0,
+          "Python": 0,
+          "React/JSX": 0,
+          "React/TSX": 0,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 0,
+          "TypeScript": 0
+        },
+        {
+          "month": "2025-04",
+          "C": 0,
+          "C++": 0,
+          "C/C++ Header": 0,
+          "CSS": 2,
+          "Config/JSON": 7,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 2,
+          "Git": 1,
+          "HTML": 1,
+          "Java": 0,
+          "JavaScript": 21,
+          "Jupyter": 0,
+          "Kotlin": 0,
+          "Markdown": 3,
+          "Other": 0,
+          "PowerShell": 0,
+          "Python": 0,
+          "React/JSX": 20,
+          "React/TSX": 0,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 0,
+          "TypeScript": 0
+        },
+        {
+          "month": "2025-05",
+          "C": 2,
+          "C++": 11,
+          "C/C++ Header": 0,
+          "CSS": 9,
+          "Config/JSON": 26,
+          "Config/TOML": 0,
+          "Config/XML": 7,
+          "Config/YAML": 0,
+          "Environment": 1,
+          "Git": 7,
+          "HTML": 14,
+          "Java": 27,
+          "JavaScript": 22,
+          "Jupyter": 10,
+          "Kotlin": 0,
+          "Markdown": 33,
+          "Other": 38,
+          "PowerShell": 0,
+          "Python": 48,
+          "React/JSX": 45,
+          "React/TSX": 84,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 10,
+          "TypeScript": 2
+        },
+        {
+          "month": "2025-06",
+          "C": 0,
+          "C++": 7,
+          "C/C++ Header": 0,
+          "CSS": 9,
+          "Config/JSON": 15,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 15,
+          "Git": 7,
+          "HTML": 2,
+          "Java": 0,
+          "JavaScript": 64,
+          "Jupyter": 0,
+          "Kotlin": 0,
+          "Markdown": 35,
+          "Other": 31,
+          "PowerShell": 0,
+          "Python": 72,
+          "React/JSX": 84,
+          "React/TSX": 0,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 12,
+          "TypeScript": 0
+        },
+        {
+          "month": "2025-07",
+          "C": 0,
+          "C++": 29,
+          "C/C++ Header": 0,
+          "CSS": 0,
+          "Config/JSON": 1,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 0,
+          "Git": 1,
+          "HTML": 0,
+          "Java": 0,
+          "JavaScript": 0,
+          "Jupyter": 3,
+          "Kotlin": 0,
+          "Markdown": 0,
+          "Other": 1,
+          "PowerShell": 0,
+          "Python": 2,
+          "React/JSX": 0,
+          "React/TSX": 0,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 0,
+          "TypeScript": 0
+        },
+        {
+          "month": "2025-08",
+          "C": 0,
+          "C++": 14,
+          "C/C++ Header": 0,
+          "CSS": 0,
+          "Config/JSON": 5,
+          "Config/TOML": 0,
+          "Config/XML": 5,
+          "Config/YAML": 0,
+          "Environment": 1,
+          "Git": 4,
+          "HTML": 0,
+          "Java": 0,
+          "JavaScript": 15,
+          "Jupyter": 6,
+          "Kotlin": 3,
+          "Markdown": 3,
+          "Other": 21,
+          "PowerShell": 0,
+          "Python": 59,
+          "React/JSX": 22,
+          "React/TSX": 2,
+          "SQL": 0,
+          "Swift": 1,
+          "Text": 1,
+          "TypeScript": 0
+        },
+        {
+          "month": "2025-09",
+          "C": 0,
+          "C++": 4,
+          "C/C++ Header": 0,
+          "CSS": 1,
+          "Config/JSON": 12,
+          "Config/TOML": 1,
+          "Config/XML": 0,
+          "Config/YAML": 0,
+          "Environment": 2,
+          "Git": 4,
+          "HTML": 0,
+          "Java": 0,
+          "JavaScript": 2,
+          "Jupyter": 2,
+          "Kotlin": 0,
+          "Markdown": 4,
+          "Other": 5,
+          "PowerShell": 1,
+          "Python": 18,
+          "React/JSX": 0,
+          "React/TSX": 0,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 6,
+          "TypeScript": 0
+        },
+        {
+          "month": "2025-10",
+          "C": 7,
+          "C++": 11,
+          "C/C++ Header": 3,
+          "CSS": 2,
+          "Config/JSON": 4,
+          "Config/TOML": 0,
+          "Config/XML": 0,
+          "Config/YAML": 2,
+          "Environment": 0,
+          "Git": 4,
+          "HTML": 2,
+          "Java": 0,
+          "JavaScript": 2,
+          "Jupyter": 0,
+          "Kotlin": 0,
+          "Markdown": 20,
+          "Other": 15,
+          "PowerShell": 3,
+          "Python": 9,
+          "React/JSX": 0,
+          "React/TSX": 3,
+          "SQL": 0,
+          "Swift": 0,
+          "Text": 1,
+          "TypeScript": 0
+        }
+      ],
+      "languages": [
+        "Git",
+        "HTML",
+        "C",
+        "Text",
+        "Markdown",
+        "Kotlin",
+        "Swift",
+        "Config/TOML"
+      ]
+    },
+    "sentiment": [
+      {
+        "name": "Positive",
+        "value": 46
+      },
+      {
+        "name": "Neutral",
+        "value": 279
+      },
+      {
+        "name": "Negative",
+        "value": 4
+      }
+    ]
+  },
+  "top_lists": {
+    "action_verbs": [
+      {
+        "verb": "create",
+        "count": 8
+      },
+      {
+        "verb": "change",
+        "count": 6
+      },
+      {
+        "verb": "enhanced",
+        "count": 2
+      },
+      {
+        "verb": "improved",
+        "count": 2
+      },
+      {
+        "verb": "adding",
+        "count": 1
+      },
+      {
+        "verb": "fixing",
+        "count": 1
+      },
+      {
+        "verb": "optimized",
+        "count": 1
+      },
+      {
+        "verb": "refactor",
+        "count": 1
+      },
+      {
+        "verb": "merged",
+        "count": 1
+      }
+    ],
+    "languages": [
+      [
+        "Python",
+        231
+      ],
+      [
+        "React/JSX",
+        171
+      ],
+      [
+        "Other",
+        150
+      ],
+      [
+        "JavaScript",
+        128
+      ],
+      [
+        "Markdown",
+        124
+      ],
+      [
+        "React/TSX",
+        89
+      ],
+      [
+        "C++",
+        76
+      ],
+      [
+        "Config/JSON",
+        74
+      ],
+      [
+        "HTML",
+        49
+      ],
+      [
+        "Jupyter",
+        39
+      ]
+    ],
+    "devoted_repos": [
+      {
+        "name": "DSA",
+        "commits": 76
+      },
+      {
+        "name": "Course_Allocation",
+        "commits": 46
+      },
+      {
+        "name": "MyPortfoliowebsite",
+        "commits": 8
+      },
+      {
+        "name": "NLP_Test_Practice",
+        "commits": 6
+      },
+      {
+        "name": "jqlite_project",
+        "commits": 4
+      },
+      {
+        "name": "ResumeGenerator",
+        "commits": 5
+      },
+      {
+        "name": "Fraud-Detection-System",
+        "commits": 5
+      },
+      {
+        "name": "Mind_Track_Project",
+        "commits": 6
+      },
+      {
+        "name": "AutoNotes",
+        "commits": 4
+      },
+      {
+        "name": "ExpiryTrackerProject",
+        "commits": 3
+      }
+    ]
+  }
+}

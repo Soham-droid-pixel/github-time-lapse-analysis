@@ -1,0 +1,50 @@
+.header {
+  background: linear-gradient(135deg, #6366f1 0%, #ec4899 100%);
+  padding: 60px 20px;
+  margin-bottom: 40px;
+  box-shadow: 0 20px 60px rgba(99, 102, 241, 0.3);
+}
+
+.header-content {
+  max-width: 1400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header-title {
+  font-size: 3em;
+  font-weight: 800;
+  margin-bottom: 10px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.header-title .emoji {
+  display: inline-block;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+.header-subtitle {
+  font-size: 1.5em;
+  opacity: 0.95;
+  margin-bottom: 10px;
+}
+
+.header-timestamp {
+  font-size: 0.9em;
+  opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+  .header-title {
+    font-size: 2em;
+  }
+  
+  .header-subtitle {
+    font-size: 1.2em;
+  }
+}
